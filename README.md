@@ -1,4 +1,24 @@
-## Hi there 👋
+ About Me:
+AADARSH MISHRA India | aadarshm358@gmail.com | +91-9473647286 | PROFESSIONAL SUMMARY Motivated BSc Computer Science student with hands-on experience in Data Analytics, Python, and Web Development. Completed industry-recognized certifications and practical simulations including Deloitte Data Analytics. Passionate about solving real-world problems using data-driven approaches and continuously learning new technologies.<br><br><br><br>SKILLS Programming: Python, C/C++ (Basic) Data Analytics: Excel, Data Visualization, Basic Data Analysis Web Development: HTML, CSS Tools: Git & GitHub (Basic)<br><br>Concepts: Data Structures & Algorithms (Beginner) Soft Skills: Leadership, Communication, Problem Solving<br><br>CERTIFICATIONS Data Analytics & Visualization using Excel and Python – Udemy Web3 Development Essentials – Udemy CSS Complete Course for Beginners – Udemy Deloitte Data Analytics Job Simulation (Forage) Cyber Security Awareness (MyGov)<br><br>INTERNSHIP EXPERIENCE Data Analytics Intern – Intern Spark April 2026 – May 2026 Worked on real-world data analytics tasks and projects Gained hands-on experience in Python and data analysis Developed problem-solving and analytical thinking skills Internshala Student Partner (ISP) Nov 2025 – Jan 2026 Promoted internships and training programs among students Built communication and marketing skills Managed campaigns and increased student engagement Summer Intern – NayePankh Foundation Nov 2025 Worked on NGO campaigns and outreach programs Developed teamwork and coordination skills Contributed to social impact initiatives<br><br>ACHIEVEMENTS Completed Deloitte Data Analytics Simulation with practical tasks Completed multiple technical certifications in data analytics and development Active participant in quizzes and learning initiatives (MyGov)<br><br>INTERESTS Data Analytics Web Development Emerging Technologies (Web3)<br><br>📫 Connect With Me<br>📧 Email: aadarshm358@gmail.com<br>🔗 LinkedIn: www.linkedin.com/in/aadarsh-mishra-4aa400395<br>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1146791267452334283) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/00._revo._00?igsh=NGdlMG4xbHh3aHZ4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aadarsh-mishra-4aa400395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RevoltGamingisog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshm358@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aadarsh-datahub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aadarsh-datahub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadarsh-datahub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=aadarsh-datahub&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **aadarsh-datahub/aadarsh-datahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
