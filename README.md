@@ -1,7 +1,6 @@
  About Me:
 AADARSH MISHRA | India |  PROFESSIONAL SUMMARY Motivated BSc Computer Science student with hands-on experience in Data Analytics, Python, and Web Development. Completed industry-recognized certifications and practical simulations including Deloitte Data Analytics. Passionate about solving real-world problems using data-driven approaches and continuously learning new technologies.<br><br><br><br>SKILLS Programming: Python, C/C++ (Basic) Data Analytics: Excel, Data Visualization, Basic Data Analysis Web Development: HTML, CSS Tools: Git & GitHub (Basic)<br><br>Concepts: Data Structures & Algorithms (Beginner) Soft Skills: Leadership, Communication, Problem Solving<br><br> With Me<br>📧 Email: aadarshm358@gmail.com<br>🔗 LinkedIn: www.linkedin.com/in/aadarsh-mishra-4aa400395
 
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00._revo._00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadarsh-mishra-4aa400395) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RevoltGamingisog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshm358@gmail.com) 
 
